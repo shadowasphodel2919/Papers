@@ -1,0 +1,4 @@
+Virtual Reality in Scientific Visualization
+Steve Bryson
+
+https://dl.acm.org/doi/pdf/10.1145/229459.229467
