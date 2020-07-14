@@ -1,0 +1,14 @@
+OBJECTIVES AND REQUIREMENTS OF
+UNMANNED ROVER EXPLORATION O17 THE MOON
+D. B. NASH, J. E. CONEL and F. P. FANALE 
+sci-hub.tw/10.1007/bf00561910
+
+https://doi.org/10.1007/BF00561910
+Summary: 
+written by:@tahajamal 1900290110115
+
+The paper that I have reviewed now was written as early in 22 March 1971 so we have to keep in mind the technological advancements of the time get a view of the frame of mind of the researcher of that time.The authors started with discussing the pre implications that scientists faced at the time when they were just starting out thinking about unmanned rovers on moon out of which the most prominent mistake was to take the surface of moon homogeneous while in reality it is highly heterogenous which makes it very difficult to make exploratory rovers which could move easily over such surfaces then the authors move on to talk about the major scientific questions of that time the major goal of lunar scientific exploration was to determine the origin and history of the Moon and its implications for the origin and history of the Earth and the solar system. The authors talk a lot about research findings from Apollo 11 and 12 and start by saying that in many ways moon is a more primitive and less modified object than Earth and then tell us in depth about the composition of moon surface. They talk about the need to determine the crystallization ages of rocks from possible indigenous pre-flow material within the maria, and from immediately adjacent highland material. The Apollo studies showed that the Moon is heterogeneous and complex in terms of its chemistry, structure and chronology. 
+Then the authors went in deep to detailed investigationsto many of the questions that time posed such as the initial source of bulk lunar material,the mode of accumulationof the moon and the major Moon wide geological processes and their energy sources and many such questions.
+Then they went on to make distinctions between manned and unmanned rovers.The effectiveness of the manned rover, especially one involving geologist-astronauts, would seemingly be superior to the unmanned rover because of the versatility, high quality of observations,and real-time tactical judgments an astronaut could provide.
+On the other hand, there are practical advantages of unmanned missions of the rover type over manned therefore they concluded logistic considerations underscore the fact that unmanned rovers are well suited for low-cost, low-risk preliminary reconnaissance where measurement of a few definitive parameters over a wide area is more important than obtaining a wide array of detailed results at a given site. 
+After that the authors of the paper wrote about roles and capabilities unmanned rovers which should be made and then told a lot about measurements of rovers.In conclusion the authors argued that investigations require measurements over wide areas of the Moon's surface which could be done more effectively using unmanned rovers.

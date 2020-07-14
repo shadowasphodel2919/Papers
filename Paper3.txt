@@ -1,0 +1,13 @@
+Virtual Reality: A Distributed Perspective
+Simon J. E. Taylor and Shirley Moody 
+
+https://doi.org/10.1007/BF02009724
+
+sci-hub.tw/10.1007/BF02009724
+
+Summary: 
+written by:@tahajamal 1900290110115
+In the paper Virtual Reality : A Distributed Perspective the author Simon J.E. Taylor and Shirley Moody talk about the two key themes in virtual reality are user interaction and sensory sophistication.The author talks about differant areas of interest of virtual reality and talk about some initiatives and researches of prominence.
+In the section of Distributed Virtual Reality the authors first describe the readers the workings of the Distributed VR . the the authors say that a major leap in complexity came when a multi-userVR application is moved from a centralised scheme to a distributed one.The authors gave a diagram to provide a better understanding of Distributed system. Distributed systems are composed of separate hardware and so,rare components which must interact.Software components (such as those comprising the VRE) are typically implemented as a collection of processes which interact by the coordinated transfer of data.Processes are hierarchically organise into a client-server relationship.The authors then go in a lot of depth of the DVR applications and its problems and give a solution to use a Wide area network and local area networks to dodge the previous problems faced in DVR application the authors gave some very reasonable examples regarding interactions of multiple users to a single virtual object.
+
+The purpose of this paper as described by the authors was to highlight exactly why Distributed VR is so challenging. The authors briefly review single- and multi-user VR architectures and introduce a general distributed VR architecture. The authors the indicate the the core of the distribution problem.The authors end the paper with a set of well-thought recommendations to solve the problems discussed.
