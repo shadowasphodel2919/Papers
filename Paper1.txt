@@ -2,3 +2,28 @@ Virtual Reality in Scientific Visualization
 Steve Bryson
 
 https://dl.acm.org/doi/pdf/10.1145/229459.229467
+
+Summary: 
+written by:@tahajamal 1900290110115
+This paper gives us a deeper understanding of uses of virtual reality in scientific visualization that is it helps us understand just how in todays world virtual reality that is computerized environment is helping us with complex computational structures beyond adding a 3D interface, virtual reality also means greater computational complexity.The term “virtual reality” has received quite a lot of attention in the last few years, so we feel it is important to be clear about its meaning. That is what the author states at the start by quoting "Virtual reality is the use of computers and human-computer interfaces
+to create the effect of a three-dimensional world containing interactive
+objects with a strong sense of threedimensional presence.".
+The author wants to convey to us that VR is basically a completely immersive computer generated environment which can be used for various purposes.
+The author proposes the effect of virtual reality is attained through several components:
+• A head-tracked, usually stereoscopic, display that presents the virtual world from the user’s current head position, including the visual cues required so the virtual scene is perceived as independent of the user, that is, has “object constancy,” while the user moves about
+• A high-performance computer graphics system that computes and renders the virtual world
+• Three-dimensional input devices that allow the user to provide input into the system directly in three dimensions.
+The author of the paper tells us that scientific visualization consists of creation of images to help to understand complex numerical representations of scientific concepts or results.
+The author tells us the different types of data represented using VR such as in computational fluid dynamics (CFD) or molecular modeling; recorded data, as in geological or astronomical applications; or constructed shapes, as in visualization of topological arguments. 
+Complex numericals or data sets can be output of vaious numerical stimulation and virtual reality helps to find patterns among them.Then the author tells us about the different types of ways patterns are shown in 3d represented structures. 
+The author exclaims Virtual reality interface concepts allow the rapid and intuitive exploration of the volume containing the data, enabling the phenomena at various places in the volume to be explored, as well as provide simple control of the visualization environment through interfaces integrated into the environment. 
+The the author gives us some examples of successful data representations in various universities like University of North California which also ran some medical simulations.
+Under the topic of Real-Time Visualizations the author tells us about how and why experiments are done in real time while running their simulations in virtual reality the author gave many examples relating to these experiments such as the experiments the done in NASA and IEEE and some more . After doing some reasearch of my own I am given to understand that NASA was first to run simulations on Virtual Reality and get some valid results on a better scale than others struggling in the start of virtual reality.
+Then under the section of"How to Meet Real-Time Performance Demands" the author states many ways in which the complexity of such simulation can be decreased can be more easily done for various experiments the author first tells us various ways to improve computation of our simulations,the author states the the computational algorithms must be well thought out.
+The second way to meet performance demands is data management the author states that compresses datga is always better and it is always better to save space and to save our experiment in sorted way as it decreases the simulation time.
+The author also tellsus different ways to optimize the graphics of our experiment.
+Under the topic "Virtual Reality Interfaces" the author immerses in the topic of the interface of VR such as the interactionuser has to the computer generated envirnment,the sound effects and also haptics that is vibrations which also help a VR enviroment to increase a users immersion in it.
+At last the author goes on to tell us how virtual reality can be used in near future its applications and how it will help us in many of our works as data management,rapid prototyping,networking,architectures and these are only few ways while VR will be used in many aspects in our future.
+
+
+According to the paper what the author is trying to tell us is that just in how many ways virtual reality can be helpful with a special press upon use of virtual reality in scientific simulations run using them and the fact that they provide us a better understanding basis of data by visualizing them.
